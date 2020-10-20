@@ -20,3 +20,12 @@ DTMF stands for Dual Tone Multiple Frequency. There are some frequencies that we
 * Robot Chasis with wheel
 * Connecting wires
 
+## What is DTMF? 
+DTMF is a Dual Tone Multiple Frequency decoder module which has a MT8870 DTMF decoder IC which decodes DTMF tone signal to digital signal that are acceptable for arduino digitally. Here an aux wire is needed for connecting DTMF module to phone.
+<p align="center">
+  <img width="460" height="300" src="https://circuitdigest.com/sites/default/files/inlineimages/DTMF-Module.jpg">
+</p>
+<p align="center">
+  <img width="460" height="300" src="https://circuitdigest.com/sites/default/files/inlineimages/Block%20diaram.PNG">
+</p>
+
