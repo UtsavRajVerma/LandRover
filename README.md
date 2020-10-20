@@ -8,4 +8,18 @@ DTMF stands for Dual Tone Multiple Frequency. There are some frequencies that we
 </p>
 
 
+##Components Required
+
+<ul>
+Arduino UNO
+DC Motor
+Mobile Phone
+DTMF decoder Module
+Motor Driver L293D
+9 Volt Battery
+Battery Connector
+Aux wire
+Robot Chasis with wheel
+Connecting wires
+</ul>
 
