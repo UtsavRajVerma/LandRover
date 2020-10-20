@@ -7,8 +7,9 @@ DTMF stands for Dual Tone Multiple Frequency. There are some frequencies that we
 <center><img src='https://circuitdigest.com/sites/default/files/projectimage_mic/DTMF-Controlled-Robot.jpg'></center>
 
 
-
-  <img src="https://circuitdigest.com/sites/default/files/projectimage_mic/DTMF-Controlled-Robot.jpg"style="display: block; margin-left: auto; margin-right: auto; width: 60%;'>
+<p align="center">
+  <img width="460" height="300" src="https://circuitdigest.com/sites/default/files/projectimage_mic/DTMF-Controlled-Robot.jpg">
+</p>
 
 
 
