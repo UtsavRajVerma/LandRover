@@ -8,10 +8,9 @@ DTMF stands for Dual Tone Multiple Frequency. There are some frequencies that we
 </p>
 
 
-##Components Required##
+## Components Required ##
 
-<ul>
-Arduino UNO
+* Arduino UNO
 DC Motor
 Mobile Phone
 DTMF decoder Module
